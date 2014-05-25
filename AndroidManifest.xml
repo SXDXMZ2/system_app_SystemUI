@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest android:versionCode="18" android:versionName="4.3-486" package="com.android.systemui" coreApp="true"
+<manifest android:versionCode="18" android:versionName="4.3-SXDXMZ2-v1" package="com.android.systemui" coreApp="true"
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
