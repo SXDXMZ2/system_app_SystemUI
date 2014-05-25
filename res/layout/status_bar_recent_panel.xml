@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.recent.RecentsPanelView android:id="@id/recents_root" android:layout_width="fill_parent" android:layout_height="fill_parent" systemui:recentItemLayout="@layout/status_bar_recent_item"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:systemui="http://schemas.android.com/apk/res/com.android.systemui">
+    <RelativeLayout android:background="@drawable/status_bar_recents_background" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/recents_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@id/recents_bg_protect" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.android.systemui.recent.RecentsVerticalScrollView android:layout_gravity="start|bottom|center" android:id="@id/recents_container" android:fitsSystemWindows="true" android:scrollbars="none" android:fadingEdge="vertical" android:fadingEdgeLength="@dimen/status_bar_recents_scroll_fading_edge_length" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:stackFromBottom="true" android:divider="@null" android:layout_marginEnd="0.0dip">
+                    <LinearLayout android:orientation="vertical" android:id="@id/recents_linear_layout" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                </com.android.systemui.recent.RecentsVerticalScrollView>
+                <RelativeLayout android:gravity="bottom" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/recents_container">
+                    <com.android.systemui.recent.RemotePluginView android:layout_gravity="bottom|center" android:id="@id/recents_inject_closeall_button" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" systemui:lookupKey="com.sonymobile.taskswitcher.CLOSEALL_BUTTON" />
+                </RelativeLayout>
+            </FrameLayout>
+            <include android:id="@id/recents_no_apps" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/status_bar_no_recent_apps" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/recents_pluginview_container" android:visibility="visible" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </RelativeLayout>
+</com.android.systemui.recent.RecentsPanelView>

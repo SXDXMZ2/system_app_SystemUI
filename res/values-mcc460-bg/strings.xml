@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN точката за достъп не е налична в самолетен режим</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN точка за достъп</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_button">WLAN връзка</string>
+    <string name="accessibility_wifi_off">WLAN е изключен.</string>
+    <string name="accessibility_no_wifi">Връзката с WLAN е прекъсната.</string>
+    <string name="accessibility_wifi_one_bar">WLAN е с една чертичка.</string>
+    <string name="accessibility_wifi_two_bars">WLAN е с две чертички.</string>
+    <string name="accessibility_wifi_three_bars">WLAN е с три чертички.</string>
+    <string name="accessibility_wifi_signal_full">Сигналът за WLAN е пълен.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi">%1$s. %2$s</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Свързано е с WLAN мрежа</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN е изключен</string>
+    <string name="quick_settings_wifi_display_label">WLAN дисплей</string>
+</resources>

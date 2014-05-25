@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_message_not_allow_turn_on_hotspot">Pristupna točka za WLAN nije dostupna u zrakoplovnom načinu rada</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Prist. točka za WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN je isključen.</string>
+    <string name="accessibility_no_wifi">WLAN je isključen.</string>
+    <string name="accessibility_wifi_one_bar">WLAN signal ima jedan stupac.</string>
+    <string name="accessibility_wifi_two_bars">WLAN signal ima dva stupca.</string>
+    <string name="accessibility_wifi_three_bars">WLAN signal ima tri stupca.</string>
+    <string name="accessibility_wifi_signal_full">WLAN signal je pun.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi">%1$s. %2$s</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN povezan</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN je isključen</string>
+    <string name="quick_settings_wifi_display_label">WLAN zaslon</string>
+</resources>

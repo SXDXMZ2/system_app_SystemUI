@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_settings_instructions">Enabling Extended Standby Mode in Power management will optimise battery lifetime</string>
+    <string name="status_bar_settings_autorotate">Auto-rotate screen</string>
+    <string name="status_bar_autorotate">Auto-rotate</string>
+    <string name="accessibility_state_vibrate">Vibrate</string>
+    <string name="status_bar_autosync_dialog_enable_title">Turn on auto-sync data?</string>
+    <string name="status_bar_autosync_dialog_enable_warning">"Any changes you make to your accounts on the web will be automatically copied to your phone.
+
+Some accounts may also automatically copy any changes you make on your phone to the web.
+
+To choose what kinds of data you sync for each account, go to Settings > Accounts."</string>
+    <string name="status_bar_autosync_dialog_extended_enable_warning">"Any changes you make to your accounts on the web will be automatically copied to your device.
+
+Some accounts may also automatically copy any changes you make on your device to the web.
+
+To choose what kinds of data you sync for each account, go to Settings > Accounts.
+
+Data charges may apply when updating your device. An unlimited data plan is recommended."</string>
+    <string name="status_bar_autosync_dialog_disable_title">Turn auto-sync data off?</string>
+    <string name="status_bar_autosync_dialog_disable_warning">"This will conserve data and battery usage, but you'll need to sync each account manually to collect recent information. And you won't receive notifications when updates occur."</string>
+    <string name="battery_low_title">Please connect charger</string>
+    <string name="usb_device_permission_prompt">Allow the application %1$s to access the USB device?</string>
+    <string name="usb_accessory_permission_prompt">Allow the application %1$s to access the USB accessory?</string>
+    <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this accessory at %1$s</string>
+    <string name="usb_debugging_message">"The computer's RSA key fingerprint is:
+
+%1$s"</string>
+    <string name="compat_mode_help_header">Compatibility Zoom</string>
+    <string name="screenshot_saving_ticker">Saving screenshot…</string>
+    <string name="screenshot_saving_title">Saving screenshot…</string>
+    <string name="installer_cd_button_title">Install Android File Transfer application for Mac</string>
+    <string name="accessibility_quick_settings_wifi">%1$s. %2$s</string>
+    <string name="accessibility_quick_settings_airplane">Airplane mode %s.</string>
+    <string name="status_bar_help_text">"Access them at any time by swiping down.
+
+Swipe down again for system controls."</string>
+    <string name="unmount_strings_dialog_content_txt">Do not remove the SD card while it is disconnecting</string>
+    <string name="description_direction_left_down">Swipe diagonally down and left for %s.</string>
+    <string name="description_direction_left_up">Swipe diagonally up and left for %s.</string>
+    <string name="description_direction_up_left">Swipe diagonally up and left for %s.</string>
+    <string name="description_direction_up_right">Swipe diagonally up and right for %s.</string>
+</resources>

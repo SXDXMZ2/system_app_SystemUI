@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="notification_panel_tools_row_height">74.0dip</dimen>
+    <dimen name="notification_panel_margin_left">290.0dip</dimen>
+    <dimen name="notification_panel_width">700.0dip</dimen>
+</resources>

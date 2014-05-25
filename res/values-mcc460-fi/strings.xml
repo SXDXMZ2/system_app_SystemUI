@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_message_not_allow_turn_on_hotspot">WLAN-alue (WLAN) ei ole käytettävissä lentokonetilassa</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN-alue (WLAN)</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN-alue</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN pois käytöstä.</string>
+    <string name="accessibility_no_wifi">Ei WLAN-yhteyttä.</string>
+    <string name="accessibility_wifi_one_bar">WLAN-signaali – yksi palkki.</string>
+    <string name="accessibility_wifi_two_bars">WLAN-signaali – kaksi palkkia.</string>
+    <string name="accessibility_wifi_three_bars">WLAN-signaali – kolme palkkia.</string>
+    <string name="accessibility_wifi_signal_full">Vahva wifi-signaali.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi">%1$s. %2$s</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN yhdistetty</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN-yhteys pois käytöstä</string>
+    <string name="quick_settings_wifi_display_label">WLAN-näyttö</string>
+</resources>

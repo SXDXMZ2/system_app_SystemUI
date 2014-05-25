@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="translucent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/systembar_transparent_background" />
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/systembar_bg_title_light" android:tileMode="repeat" />
+    </item>
+</layer-list>

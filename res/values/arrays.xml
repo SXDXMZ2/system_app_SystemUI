@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="navbar_search_targets">
+        <item>@null</item>
+        <item>@*android:drawable/ic_action_assist_generic</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="navbar_search_target_descriptions">
+        <item>@null</item>
+        <item>@*android:string/description_target_search</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="navbar_search_direction_descriptions">
+        <item>@null</item>
+        <item>@*android:string/description_direction_up</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <string-array name="config_toolButtons">
+        <item>settings</item>
+        <item>wifi</item>
+        <item>bluetooth</item>
+        <item>gps</item>
+        <item>tethering</item>
+        <item>throw</item>
+        <item>autorotate</item>
+        <item>brightness</item>
+    </string-array>
+    <string-array name="config_allToolButtons">
+        <item>wifi</item>
+        <item>bluetooth</item>
+        <item>datatraffic</item>
+        <item>brightness</item>
+        <item>sound</item>
+        <item>tethering</item>
+        <item>gps</item>
+        <item>airplanemode</item>
+        <item>autorotate</item>
+        <item>settings</item>
+        <item>roaming</item>
+        <item>autosync</item>
+        <item>nfc</item>
+        <item>throw</item>
+        <item>stamina</item>
+        <item>mirroring</item>
+        <item>lte</item>
+    </string-array>
+    <string-array name="config_restrictedTools">
+        <item>datatraffic</item>
+        <item>tethering</item>
+        <item>roaming</item>
+        <item>lte</item>
+        <item>autosync</item>
+        <item>stamina</item>
+    </string-array>
+    <string-array name="config_iconItemsString">
+        <item>airplanemode;ic_settings_airplane</item>
+        <item>autorotate;ic_settings_autorotate</item>
+        <item>gps;ic_settings_gps</item>
+        <item>settings;ic_settings_settings</item>
+        <item>wifi;ic_settings_wifi</item>
+        <item>bluetooth;ic_settings_bluetooth</item>
+        <item>datatraffic;ic_settings_data_traffic</item>
+        <item>brightness;ic_settings_brightness</item>
+        <item>sound;ic_settings_sound</item>
+        <item>tethering;ic_settings_tethering</item>
+        <item>nfc;ic_settings_nfc</item>
+        <item>roaming;ic_settings_roaming</item>
+        <item>autosync;ic_settings_auto_sync</item>
+        <item>throw;ic_settings_throw</item>
+        <item>stamina;ic_settings_stamina</item>
+        <item>mirroring;ic_settings_screen_mirroring</item>
+        <item>lte;ic_settings_lte</item>
+    </string-array>
+    <string-array name="config_textItemsString">
+        <item>airplanemode;status_bar_settings_airplanemode</item>
+        <item>autorotate;status_bar_settings_autorotate</item>
+        <item>gps;status_bar_settings_gps</item>
+        <item>settings;status_bar_settings_settings</item>
+        <item>wifi;status_bar_settings_wifi</item>
+        <item>bluetooth;status_bar_settings_bluetooth</item>
+        <item>datatraffic;status_bar_settings_mobile_data</item>
+        <item>brightness;status_bar_settings_brightness</item>
+        <item>sound;status_bar_settings_sound</item>
+        <item>tethering;status_bar_settings_wifi_hotspot</item>
+        <item>nfc;status_bar_settings_nfc</item>
+        <item>roaming;status_bar_settings_roaming</item>
+        <item>autosync;status_bar_settings_autosync</item>
+        <item>throw;status_bar_settings_throw</item>
+        <item>stamina;status_bar_stamina</item>
+        <item>mirroring;status_bar_mirroring</item>
+        <item>lte;lte_tool_label</item>
+    </string-array>
+    <string-array name="config_toolsRemovedWhenWifiOnly">
+        <item>datatraffic</item>
+        <item>roaming</item>
+        <item>lte</item>
+    </string-array>
+</resources>

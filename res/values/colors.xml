@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_panel_solid_background">#ff000000</color>
+    <color name="status_bar_recents_app_label_color">#ffffffff</color>
+    <color name="notification_list_shadow_top">#80000000</color>
+    <color name="system_ui_opaque_background">#ff000000</color>
+    <color name="system_ui_transparent_background">#00000000</color>
+    <color name="system_ui_light_background">#ff4d4d4d</color>
+    <color name="start_color">#ff181818</color>
+    <color name="end_color">#ff242424</color>
+    <color name="frame_color">#ff323232</color>
+    <color name="notification_panel_scrim_color">#b0000000</color>
+    <color name="moving_item_background">#80000000</color>
+    <color name="quick_settings_text_state_off">#66ffffff</color>
+    <color name="battery_text_color_good">#ffffffff</color>
+    <color name="battery_text_color_critical">#ffcb2026</color>
+    <color name="battery_text_color_low">#ffffffff</color>
+    <color name="somc_quick_settings_accent_color">#ffffffff</color>
+    <color name="somc_quick_settings_text_state_off">#ffffffff</color>
+</resources>

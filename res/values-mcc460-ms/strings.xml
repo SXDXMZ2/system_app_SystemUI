@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_message_not_allow_turn_on_hotspot">Hotspot WLAN tidak tersedia dalam mod pesawat</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">Hotspot WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN dimatikan.</string>
+    <string name="accessibility_no_wifi">WLAN diputuskan sambungannya.</string>
+    <string name="accessibility_wifi_one_bar">WLAN satu bar.</string>
+    <string name="accessibility_wifi_two_bars">WLAN dua bar.</string>
+    <string name="accessibility_wifi_three_bars">WLAN tiga bar.</string>
+    <string name="accessibility_wifi_signal_full">Isyarat WLAN penuh.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi">%1$s. %2$s</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN disambungkan</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN Dimatikan</string>
+    <string name="quick_settings_wifi_display_label">Paparan WLAN</string>
+</resources>

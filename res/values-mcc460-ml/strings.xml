@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_message_not_allow_turn_on_hotspot">എയര്‍പ്ലെയിന്‍ മോഡില്‍ WLAN hotspot ലഭ്യമല്ല</string>
+    <string name="status_bar_settings_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_hotspot">WLAN hotspot</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="accessibility_wifi_off">WLAN ഓഫ്.</string>
+    <string name="accessibility_no_wifi">WLAN വിച്ഛേദിച്ചു.</string>
+    <string name="accessibility_wifi_one_bar">WLAN ഒരു ബാര്‍.</string>
+    <string name="accessibility_wifi_two_bars">WLAN രണ്ട് ബാര്‍.</string>
+    <string name="accessibility_wifi_three_bars">WLAN മൂന്ന് ബാര്‍.</string>
+    <string name="accessibility_wifi_signal_full">WLAN സിഗ്നല്‍ പൂര്‍ണ്ണം.</string>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_quick_settings_wifi">%1$s. %2$s</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN കണക്ടുചെയ്തു</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN ഓഫ്</string>
+    <string name="quick_settings_wifi_display_label">WLAN പ്രദര്‍ശനം</string>
+</resources>
